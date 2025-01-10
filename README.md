@@ -46,7 +46,7 @@ URL: /api/token/
 Method: POST
 
 Request Body:
-
+[
 {
 
   "username": "<your-username>",
@@ -54,7 +54,7 @@ Request Body:
   "password": "<your-password>"
 
 }
-
+]
 
 Response:
 
