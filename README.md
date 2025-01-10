@@ -17,7 +17,8 @@ cd ecommerce-api
 ### 2.Create and Activate a Virtual Environment:
 
 python -m venv venv
-venv\Scripts\activate
+
+.\venv\Scripts\activate
 
 ### 3.Install Dependencies:
 
