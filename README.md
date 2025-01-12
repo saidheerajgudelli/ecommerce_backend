@@ -12,6 +12,7 @@ JSON Web Tokens (JWTs) are used for securely transmitting information and authen
 ### 1.Clone the Repository:
 
 git clone https://github.com/<C:\Users\bunny\Desktop\interview\ecommerce>/ecommerce-api.git
+
 cd ecommerce-api
 
 ### 2.Create and Activate a Virtual Environment:
