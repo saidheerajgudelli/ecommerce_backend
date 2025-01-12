@@ -29,6 +29,7 @@ pip install -r requirements.txt
 
 #### 5.Apply migrations:
 python manage.py makemigrations
+
 python manage.py migrate
 
 ### 6.Create a Superuser:
@@ -36,6 +37,7 @@ python manage.py migrate
 python manage.py createsuperuser
 
 ### 7.Run the Development Server:
+
 python manage.py runserver
 
 # API Endpoints
